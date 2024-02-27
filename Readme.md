@@ -39,7 +39,7 @@ f you want to synthesize and implement the DSP48A1 design on an FPGA device usin
 2. Add the dsp48a1.v and register.v files to the project as a design source.
 
 3. Add the testbench.v file to the project as a simulation source.
-    > if you already run the project in the modelsim you can Ignore this step
+    > if you already simulate the design in the modelsim you can Ignore this step
 
 4. Run synthesis, implementation, and generate the bitstream using Vivado's tools.
 
